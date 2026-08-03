@@ -1,0 +1,551 @@
+Number,Order ID,Order Date,SKU,Product Name,Category,Qty,Selling Price,Customer City,State,Order Status
+1,MS2606001,46174,SKU101,Floral Cotton Kurti,Women's Kurtis,1,799,Delhi,Delhi,Delivered
+2,MS2606002,46174,SKU102,Rayon Printed Kurti,Women's Kurtis,2,1498,Jaipur,Rajasthan,Delivered
+3,MS2606003,46175,SKU103,Anarkali Kurti,Women's Kurtis,1,1199,Lucknow,Uttar Pradesh,Delivered
+4,MS2606004,46175,SKU104,Straight Kurta Set,Kurta Sets,1,1699,Noida,Uttar Pradesh,Delivered
+5,MS2606005,46176,SKU105,Embroidered Kurti,Women's Kurtis,1,999,Pune,Maharashtra,Returned
+6,MS2606006,46176,SKU106,Cotton Kurta Set,Kurta Sets,2,2798,Indore,Madhya Pradesh,Delivered
+7,MS2606007,46177,SKU101,Floral Cotton Kurti,Women's Kurtis,1,799,Ahmedabad,Gujarat,Delivered
+8,MS2606008,46177,SKU107,Printed A-Line Kurti,Women's Kurtis,1,899,Patna,Bihar,Delivered
+9,MS2606009,46178,SKU108,Palazzo Set,Kurta Sets,1,1899,Chandigarh,Chandigarh,Delivered
+10,MS2606010,46178,SKU102,Rayon Printed Kurti,Women's Kurtis,1,749,Delhi,Delhi,Delivered
+11,MS2606011,46179,SKU109,Festive Kurti,Women's Kurtis,2,2398,Bhopal,Madhya Pradesh,Delivered
+12,MS2606012,46180,SKU104,Straight Kurta Set,Kurta Sets,1,1699,Mumbai,Maharashtra,Delivered
+13,MS2606013,46180,SKU110,Cotton Printed Dress,Dresses,1,1399,Surat,Gujarat,Delivered
+14,MS2606014,46181,SKU111,Casual Maxi Dress,Dresses,1,1599,Kanpur,Uttar Pradesh,Returned
+15,MS2606015,46181,SKU103,Anarkali Kurti,Women's Kurtis,1,1199,Delhi,Delhi,Delivered
+16,MS2606016,46182,SKU101,Floral Cotton Kurti,Women's Kurtis,3,2397,Jaipur,Rajasthan,Delivered
+17,MS2606017,46183,SKU105,Embroidered Kurti,Women's Kurtis,1,999,Ranchi,Jharkhand,Delivered
+18,MS2606018,46183,SKU112,Chikankari Kurti,Women's Kurtis,2,2598,Nagpur,Maharashtra,Delivered
+19,MS2606019,46184,SKU108,Palazzo Set,Kurta Sets,1,1899,Agra,Uttar Pradesh,Delivered
+20,MS2606020,46185,SKU107,Printed A-Line Kurti,Women's Kurtis,1,899,Delhi,Delhi,Delivered
+21,MS2606021,46186,SKU109,Festive Kurti,Women's Kurtis,1,1199,Jaipur,Rajasthan,Delivered
+22,MS2606022,46186,SKU106,Cotton Kurta Set,Kurta Sets,1,1399,Meerut,Uttar Pradesh,Delivered
+23,MS2606023,46187,SKU110,Cotton Printed Dress,Dresses,2,2798,Ludhiana,Punjab,Delivered
+24,MS2606024,46188,SKU101,Floral Cotton Kurti,Women's Kurtis,1,799,Delhi,Delhi,Delivered
+25,MS2606025,46188,SKU104,Straight Kurta Set,Kurta Sets,1,1699,Jaipur,Rajasthan,Returned
+26,MS2606026,46189,SKU111,Casual Maxi Dress,Dresses,1,1599,Vadodara,Gujarat,Delivered
+27,MS2606027,46190,SKU103,Anarkali Kurti,Women's Kurtis,2,2398,Delhi,Delhi,Delivered
+28,MS2606028,46191,SKU112,Chikankari Kurti,Women's Kurtis,1,1299,Dehradun,Uttarakhand,Delivered
+29,MS2606029,46191,SKU102,Rayon Printed Kurti,Women's Kurtis,1,749,Kolkata,West Bengal,Delivered
+30,MS2606030,46192,SKU108,Palazzo Set,Kurta Sets,2,3798,Hyderabad,Telangana,Delivered
+31,MS2606031,46193,SKU105,Embroidered Kurti,Women's Kurtis,1,999,Delhi,Delhi,Delivered
+32,MS2606032,46194,SKU110,Cotton Printed Dress,Dresses,1,1399,Kochi,Kerala,Delivered
+33,MS2606033,46194,SKU109,Festive Kurti,Women's Kurtis,1,1199,Jaipur,Rajasthan,Delivered
+34,MS2606034,46195,SKU101,Floral Cotton Kurti,Women's Kurtis,2,1598,Noida,Uttar Pradesh,Delivered
+35,MS2606035,46196,SKU107,Printed A-Line Kurti,Women's Kurtis,1,899,Patna,Bihar,Delivered
+36,MS2606036,46196,SKU106,Cotton Kurta Set,Kurta Sets,1,1399,Delhi,Delhi,Returned
+37,MS2606037,46197,SKU112,Chikankari Kurti,Women's Kurtis,2,2598,Mumbai,Maharashtra,Delivered
+38,MS2606038,46198,SKU104,Straight Kurta Set,Kurta Sets,1,1699,Pune,Maharashtra,Delivered
+39,MS2606039,46198,SKU103,Anarkali Kurti,Women's Kurtis,1,1199,Delhi,Delhi,Delivered
+40,MS2606040,46199,SKU111,Casual Maxi Dress,Dresses,1,1599,Jaipur,Rajasthan,Delivered
+41,MS2606041,46199,SKU102,Rayon Printed Kurti,Women's Kurtis,3,2247,Indore,Madhya Pradesh,Delivered
+42,MS2606042,46200,SKU108,Palazzo Set,Kurta Sets,1,1899,Delhi,Delhi,Delivered
+43,MS2606043,46200,SKU109,Festive Kurti,Women's Kurtis,2,2398,Lucknow,Uttar Pradesh,Delivered
+44,MS2606044,46201,SKU105,Embroidered Kurti,Women's Kurtis,1,999,Surat,Gujarat,Delivered
+45,MS2606045,46201,SKU101,Floral Cotton Kurti,Women's Kurtis,1,799,Delhi,Delhi,Delivered
+46,MS2606046,46202,SKU110,Cotton Printed Dress,Dresses,2,2798,Chandigarh,Chandigarh,Delivered
+47,MS2606047,46202,SKU107,Printed A-Line Kurti,Women's Kurtis,1,899,Ghaziabad,Uttar Pradesh,Delivered
+48,MS2606048,46203,SKU104,Straight Kurta Set,Kurta Sets,2,3398,Delhi,Delhi,Delivered
+49,MS2606049,46203,SKU112,Chikankari Kurti,Women's Kurtis,1,1299,Jaipur,Rajasthan,Delivered
+50,MS2606050,46203,SKU109,Festive Kurti,Women's Kurtis,1,1199,Bengaluru,Karnataka,Delivered
+51,MS2606051,46174,SKU103,Anarkali Kurti,Women's Kurtis,1,1199,Delhi,Delhi,Delivered
+52,MS2606052,46175,SKU108,Palazzo Set,Kurta Sets,1,1899,Jaipur,Rajasthan,Delivered
+53,MS2606053,46175,SKU110,Cotton Printed Dress,Dresses,2,2798,Mumbai,Maharashtra,Delivered
+54,MS2606054,46176,SKU112,Chikankari Kurti,Women's Kurtis,1,1299,Noida,Uttar Pradesh,Delivered
+55,MS2606055,46177,SKU101,Floral Cotton Kurti,Women's Kurtis,2,1598,Lucknow,Uttar Pradesh,Delivered
+56,MS2606056,46178,SKU106,Cotton Kurta Set,Kurta Sets,1,1399,Pune,Maharashtra,Delivered
+57,MS2606057,46178,SKU109,Festive Kurti,Women's Kurtis,1,1199,Patna,Bihar,Delivered
+58,MS2606058,46179,SKU102,Rayon Printed Kurti,Women's Kurtis,3,2247,Delhi,Delhi,Delivered
+59,MS2606059,46180,SKU104,Straight Kurta Set,Kurta Sets,1,1699,Ahmedabad,Gujarat,Returned
+60,MS2606060,46180,SKU105,Embroidered Kurti,Women's Kurtis,1,999,Surat,Gujarat,Delivered
+61,MS2606061,46181,SKU111,Casual Maxi Dress,Dresses,1,1599,Indore,Madhya Pradesh,Delivered
+62,MS2606062,46182,SKU107,Printed A-Line Kurti,Women's Kurtis,2,1798,Delhi,Delhi,Delivered
+63,MS2606063,46182,SKU101,Floral Cotton Kurti,Women's Kurtis,1,799,Jaipur,Rajasthan,Delivered
+64,MS2606064,46183,SKU108,Palazzo Set,Kurta Sets,2,3798,Chandigarh,Chandigarh,Delivered
+65,MS2606065,46184,SKU112,Chikankari Kurti,Women's Kurtis,1,1299,Delhi,Delhi,Delivered
+66,MS2606066,46185,SKU103,Anarkali Kurti,Women's Kurtis,2,2398,Kanpur,Uttar Pradesh,Delivered
+67,MS2606067,46185,SKU104,Straight Kurta Set,Kurta Sets,1,1699,Hyderabad,Telangana,Delivered
+68,MS2606068,46186,SKU110,Cotton Printed Dress,Dresses,1,1399,Kochi,Kerala,Delivered
+69,MS2606069,46187,SKU101,Floral Cotton Kurti,Women's Kurtis,1,799,Delhi,Delhi,Delivered
+70,MS2606070,46187,SKU105,Embroidered Kurti,Women's Kurtis,2,1998,Ranchi,Jharkhand,Delivered
+71,MS2606071,46188,SKU102,Rayon Printed Kurti,Women's Kurtis,1,749,Meerut,Uttar Pradesh,Delivered
+72,MS2606072,46189,SKU111,Casual Maxi Dress,Dresses,1,1599,Agra,Uttar Pradesh,Delivered
+73,MS2606073,46189,SKU109,Festive Kurti,Women's Kurtis,3,3597,Delhi,Delhi,Delivered
+74,MS2606074,46190,SKU107,Printed A-Line Kurti,Women's Kurtis,1,899,Nagpur,Maharashtra,Delivered
+75,MS2606075,46191,SKU106,Cotton Kurta Set,Kurta Sets,2,2798,Ludhiana,Punjab,Delivered
+76,MS2606076,46191,SKU108,Palazzo Set,Kurta Sets,1,1899,Vadodara,Gujarat,Delivered
+77,MS2606077,46192,SKU101,Floral Cotton Kurti,Women's Kurtis,2,1598,Delhi,Delhi,Delivered
+78,MS2606078,46193,SKU112,Chikankari Kurti,Women's Kurtis,1,1299,Kolkata,West Bengal,Returned
+79,MS2606079,46193,SKU103,Anarkali Kurti,Women's Kurtis,1,1199,Bhopal,Madhya Pradesh,Delivered
+80,MS2606080,46194,SKU104,Straight Kurta Set,Kurta Sets,1,1699,Ghaziabad,Uttar Pradesh,Delivered
+81,MS2606081,46195,SKU109,Festive Kurti,Women's Kurtis,2,2398,Delhi,Delhi,Delivered
+82,MS2606082,46195,SKU105,Embroidered Kurti,Women's Kurtis,1,999,Jaipur,Rajasthan,Delivered
+83,MS2606083,46196,SKU110,Cotton Printed Dress,Dresses,1,1399,Mumbai,Maharashtra,Delivered
+84,MS2606084,46196,SKU107,Printed A-Line Kurti,Women's Kurtis,2,1798,Noida,Uttar Pradesh,Delivered
+85,MS2606085,46197,SKU102,Rayon Printed Kurti,Women's Kurtis,1,749,Delhi,Delhi,Delivered
+86,MS2606086,46197,SKU106,Cotton Kurta Set,Kurta Sets,1,1399,Patna,Bihar,Delivered
+87,MS2606087,46198,SKU111,Casual Maxi Dress,Dresses,2,3198,Pune,Maharashtra,Delivered
+88,MS2606088,46198,SKU108,Palazzo Set,Kurta Sets,1,1899,Ahmedabad,Gujarat,Delivered
+89,MS2606089,46199,SKU103,Anarkali Kurti,Women's Kurtis,1,1199,Delhi,Delhi,Delivered
+90,MS2606090,46199,SKU112,Chikankari Kurti,Women's Kurtis,2,2598,Jaipur,Rajasthan,Delivered
+91,MS2606091,46200,SKU101,Floral Cotton Kurti,Women's Kurtis,1,799,Bengaluru,Karnataka,Delivered
+92,MS2606092,46200,SKU104,Straight Kurta Set,Kurta Sets,1,1699,Indore,Madhya Pradesh,Delivered
+93,MS2606093,46201,SKU105,Embroidered Kurti,Women's Kurtis,1,999,Lucknow,Uttar Pradesh,Delivered
+94,MS2606094,46201,SKU110,Cotton Printed Dress,Dresses,1,1399,Chandigarh,Chandigarh,Delivered
+95,MS2606095,46202,SKU109,Festive Kurti,Women's Kurtis,2,2398,Delhi,Delhi,Returned
+96,MS2606096,46202,SKU107,Printed A-Line Kurti,Women's Kurtis,1,899,Surat,Gujarat,Delivered
+97,MS2606097,46203,SKU108,Palazzo Set,Kurta Sets,1,1899,Hyderabad,Telangana,Delivered
+98,MS2606098,46203,SKU111,Casual Maxi Dress,Dresses,1,1599,Kochi,Kerala,Delivered
+99,MS2606099,46203,SKU102,Rayon Printed Kurti,Women's Kurtis,2,1498,Delhi,Delhi,Delivered
+100,MS2606100,46203,SKU101,Floral Cotton Kurti,Women's Kurtis,3,2397,Jaipur,Rajasthan,Delivered
+101,MS2606101,46174,SKU104,Straight Kurta Set,Kurta Sets,1,1699,Delhi,Delhi,Delivered
+102,MS2606102,46174,SKU112,Chikankari Kurti,Women's Kurtis,2,2598,Jaipur,Rajasthan,Delivered
+103,MS2606103,46175,SKU107,Printed A-Line Kurti,Women's Kurtis,1,899,Lucknow,Uttar Pradesh,Delivered
+104,MS2606104,46175,SKU109,Festive Kurti,Women's Kurtis,1,1199,Noida,Uttar Pradesh,Delivered
+105,MS2606105,46176,SKU101,Floral Cotton Kurti,Women's Kurtis,2,1598,Pune,Maharashtra,Delivered
+106,MS2606106,46176,SKU110,Cotton Printed Dress,Dresses,1,1399,Indore,Madhya Pradesh,Delivered
+107,MS2606107,46177,SKU102,Rayon Printed Kurti,Women's Kurtis,3,2247,Delhi,Delhi,Delivered
+108,MS2606108,46177,SKU111,Casual Maxi Dress,Dresses,1,1599,Patna,Bihar,Delivered
+109,MS2606109,46178,SKU108,Palazzo Set,Kurta Sets,1,1899,Ahmedabad,Gujarat,Delivered
+110,MS2606110,46178,SKU105,Embroidered Kurti,Women's Kurtis,1,999,Delhi,Delhi,Returned
+111,MS2606111,46179,SKU103,Anarkali Kurti,Women's Kurtis,2,2398,Jaipur,Rajasthan,Delivered
+112,MS2606112,46179,SKU106,Cotton Kurta Set,Kurta Sets,1,1399,Chandigarh,Chandigarh,Delivered
+113,MS2606113,46180,SKU109,Festive Kurti,Women's Kurtis,1,1199,Bhopal,Madhya Pradesh,Delivered
+114,MS2606114,46180,SKU101,Floral Cotton Kurti,Women's Kurtis,1,799,Delhi,Delhi,Delivered
+115,MS2606115,46181,SKU112,Chikankari Kurti,Women's Kurtis,1,1299,Kanpur,Uttar Pradesh,Delivered
+116,MS2606116,46181,SKU104,Straight Kurta Set,Kurta Sets,2,3398,Mumbai,Maharashtra,Delivered
+117,MS2606117,46182,SKU107,Printed A-Line Kurti,Women's Kurtis,2,1798,Surat,Gujarat,Delivered
+118,MS2606118,46182,SKU102,Rayon Printed Kurti,Women's Kurtis,1,749,Delhi,Delhi,Delivered
+119,MS2606119,46183,SKU110,Cotton Printed Dress,Dresses,1,1399,Kochi,Kerala,Delivered
+120,MS2606120,46183,SKU108,Palazzo Set,Kurta Sets,2,3798,Nagpur,Maharashtra,Delivered
+121,MS2606121,46184,SKU101,Floral Cotton Kurti,Women's Kurtis,1,799,Ghaziabad,Uttar Pradesh,Delivered
+122,MS2606122,46184,SKU109,Festive Kurti,Women's Kurtis,2,2398,Delhi,Delhi,Delivered
+123,MS2606123,46185,SKU103,Anarkali Kurti,Women's Kurtis,1,1199,Meerut,Uttar Pradesh,Delivered
+124,MS2606124,46185,SKU105,Embroidered Kurti,Women's Kurtis,1,999,Ranchi,Jharkhand,Delivered
+125,MS2606125,46186,SKU111,Casual Maxi Dress,Dresses,2,3198,Jaipur,Rajasthan,Delivered
+126,MS2606126,46186,SKU106,Cotton Kurta Set,Kurta Sets,1,1399,Delhi,Delhi,Delivered
+127,MS2606127,46187,SKU104,Straight Kurta Set,Kurta Sets,1,1699,Ludhiana,Punjab,Delivered
+128,MS2606128,46187,SKU112,Chikankari Kurti,Women's Kurtis,1,1299,Kolkata,West Bengal,Delivered
+129,MS2606129,46188,SKU102,Rayon Printed Kurti,Women's Kurtis,2,1498,Delhi,Delhi,Delivered
+130,MS2606130,46188,SKU107,Printed A-Line Kurti,Women's Kurtis,1,899,Hyderabad,Telangana,Delivered
+131,MS2606131,46189,SKU101,Floral Cotton Kurti,Women's Kurtis,3,2397,Jaipur,Rajasthan,Delivered
+132,MS2606132,46189,SKU108,Palazzo Set,Kurta Sets,1,1899,Pune,Maharashtra,Delivered
+133,MS2606133,46190,SKU110,Cotton Printed Dress,Dresses,2,2798,Delhi,Delhi,Delivered
+134,MS2606134,46190,SKU109,Festive Kurti,Women's Kurtis,1,1199,Noida,Uttar Pradesh,Returned
+135,MS2606135,46191,SKU103,Anarkali Kurti,Women's Kurtis,1,1199,Patna,Bihar,Delivered
+136,MS2606136,46191,SKU105,Embroidered Kurti,Women's Kurtis,2,1998,Ahmedabad,Gujarat,Delivered
+137,MS2606137,46192,SKU111,Casual Maxi Dress,Dresses,1,1599,Lucknow,Uttar Pradesh,Delivered
+138,MS2606138,46192,SKU106,Cotton Kurta Set,Kurta Sets,1,1399,Delhi,Delhi,Delivered
+139,MS2606139,46193,SKU112,Chikankari Kurti,Women's Kurtis,2,2598,Mumbai,Maharashtra,Delivered
+140,MS2606140,46193,SKU104,Straight Kurta Set,Kurta Sets,1,1699,Surat,Gujarat,Delivered
+141,MS2606141,46194,SKU101,Floral Cotton Kurti,Women's Kurtis,1,799,Delhi,Delhi,Delivered
+142,MS2606142,46194,SKU102,Rayon Printed Kurti,Women's Kurtis,1,749,Jaipur,Rajasthan,Delivered
+143,MS2606143,46195,SKU108,Palazzo Set,Kurta Sets,2,3798,Indore,Madhya Pradesh,Delivered
+144,MS2606144,46195,SKU109,Festive Kurti,Women's Kurtis,2,2398,Delhi,Delhi,Delivered
+145,MS2606145,46196,SKU103,Anarkali Kurti,Women's Kurtis,1,1199,Bengaluru,Karnataka,Delivered
+146,MS2606146,46196,SKU107,Printed A-Line Kurti,Women's Kurtis,1,899,Jaipur,Rajasthan,Delivered
+147,MS2606147,46197,SKU111,Casual Maxi Dress,Dresses,1,1599,Delhi,Delhi,Delivered
+148,MS2606148,46197,SKU105,Embroidered Kurti,Women's Kurtis,1,999,Agra,Uttar Pradesh,Returned
+149,MS2606149,46198,SKU106,Cotton Kurta Set,Kurta Sets,2,2798,Vadodara,Gujarat,Delivered
+150,MS2606150,46198,SKU112,Chikankari Kurti,Women's Kurtis,1,1299,Delhi,Delhi,Delivered
+151,MS2606151,46199,SKU101,Floral Cotton Kurti,Women's Kurtis,2,1598,Delhi,Delhi,Delivered
+152,MS2606152,46199,SKU104,Straight Kurta Set,Kurta Sets,1,1699,Jaipur,Rajasthan,Delivered
+153,MS2606153,46199,SKU109,Festive Kurti,Women's Kurtis,1,1199,Lucknow,Uttar Pradesh,Delivered
+154,MS2606154,46199,SKU110,Cotton Printed Dress,Dresses,2,2798,Mumbai,Maharashtra,Delivered
+155,MS2606155,46199,SKU112,Chikankari Kurti,Women's Kurtis,1,1299,Ahmedabad,Gujarat,Delivered
+156,MS2606156,46200,SKU102,Rayon Printed Kurti,Women's Kurtis,2,1498,Delhi,Delhi,Delivered
+157,MS2606157,46200,SKU107,Printed A-Line Kurti,Women's Kurtis,1,899,Pune,Maharashtra,Delivered
+158,MS2606158,46200,SKU106,Cotton Kurta Set,Kurta Sets,1,1399,Noida,Uttar Pradesh,Delivered
+159,MS2606159,46200,SKU103,Anarkali Kurti,Women's Kurtis,2,2398,Chandigarh,Chandigarh,Delivered
+160,MS2606160,46200,SKU111,Casual Maxi Dress,Dresses,1,1599,Patna,Bihar,Returned
+161,MS2606161,46200,SKU108,Palazzo Set,Kurta Sets,1,1899,Delhi,Delhi,Delivered
+162,MS2606162,46201,SKU105,Embroidered Kurti,Women's Kurtis,1,999,Indore,Madhya Pradesh,Delivered
+163,MS2606163,46201,SKU101,Floral Cotton Kurti,Women's Kurtis,3,2397,Jaipur,Rajasthan,Delivered
+164,MS2606164,46201,SKU109,Festive Kurti,Women's Kurtis,2,2398,Hyderabad,Telangana,Delivered
+165,MS2606165,46201,SKU112,Chikankari Kurti,Women's Kurtis,2,2598,Delhi,Delhi,Delivered
+166,MS2606166,46201,SKU104,Straight Kurta Set,Kurta Sets,1,1699,Kochi,Kerala,Delivered
+167,MS2606167,46201,SKU102,Rayon Printed Kurti,Women's Kurtis,1,749,Ghaziabad,Uttar Pradesh,Delivered
+168,MS2606168,46202,SKU107,Printed A-Line Kurti,Women's Kurtis,2,1798,Jaipur,Rajasthan,Delivered
+169,MS2606169,46202,SKU103,Anarkali Kurti,Women's Kurtis,1,1199,Delhi,Delhi,Delivered
+170,MS2606170,46202,SKU110,Cotton Printed Dress,Dresses,1,1399,Surat,Gujarat,Delivered
+171,MS2606171,46202,SKU108,Palazzo Set,Kurta Sets,2,3798,Nagpur,Maharashtra,Delivered
+172,MS2606172,46202,SKU111,Casual Maxi Dress,Dresses,1,1599,Lucknow,Uttar Pradesh,Delivered
+173,MS2606173,46202,SKU101,Floral Cotton Kurti,Women's Kurtis,1,799,Delhi,Delhi,Delivered
+174,MS2606174,46202,SKU106,Cotton Kurta Set,Kurta Sets,2,2798,Meerut,Uttar Pradesh,Delivered
+175,MS2606175,46202,SKU109,Festive Kurti,Women's Kurtis,1,1199,Ranchi,Jharkhand,Delivered
+176,MS2606176,46203,SKU104,Straight Kurta Set,Kurta Sets,2,3398,Mumbai,Maharashtra,Delivered
+177,MS2606177,46203,SKU112,Chikankari Kurti,Women's Kurtis,1,1299,Delhi,Delhi,Delivered
+178,MS2606178,46203,SKU105,Embroidered Kurti,Women's Kurtis,2,1998,Jaipur,Rajasthan,Delivered
+179,MS2606179,46203,SKU102,Rayon Printed Kurti,Women's Kurtis,1,749,Patna,Bihar,Delivered
+180,MS2606180,46203,SKU107,Printed A-Line Kurti,Women's Kurtis,3,2697,Delhi,Delhi,Delivered
+181,MS2606181,46203,SKU103,Anarkali Kurti,Women's Kurtis,1,1199,Ahmedabad,Gujarat,Delivered
+182,MS2606182,46203,SKU108,Palazzo Set,Kurta Sets,1,1899,Bengaluru,Karnataka,Delivered
+183,MS2606183,46203,SKU101,Floral Cotton Kurti,Women's Kurtis,2,1598,Delhi,Delhi,Returned
+184,MS2606184,46203,SKU110,Cotton Printed Dress,Dresses,1,1399,Bhopal,Madhya Pradesh,Delivered
+185,MS2606185,46203,SKU109,Festive Kurti,Women's Kurtis,2,2398,Chandigarh,Chandigarh,Delivered
+186,MS2606186,46203,SKU106,Cotton Kurta Set,Kurta Sets,1,1399,Pune,Maharashtra,Delivered
+187,MS2606187,46203,SKU111,Casual Maxi Dress,Dresses,2,3198,Delhi,Delhi,Delivered
+188,MS2606188,46203,SKU104,Straight Kurta Set,Kurta Sets,1,1699,Kanpur,Uttar Pradesh,Delivered
+189,MS2606189,46203,SKU112,Chikankari Kurti,Women's Kurtis,2,2598,Kolkata,West Bengal,Delivered
+190,MS2606190,46203,SKU105,Embroidered Kurti,Women's Kurtis,1,999,Vadodara,Gujarat,Delivered
+191,MS2606191,46203,SKU103,Anarkali Kurti,Women's Kurtis,2,2398,Delhi,Delhi,Delivered
+192,MS2606192,46203,SKU107,Printed A-Line Kurti,Women's Kurtis,1,899,Hyderabad,Telangana,Delivered
+193,MS2606193,46203,SKU101,Floral Cotton Kurti,Women's Kurtis,1,799,Jaipur,Rajasthan,Delivered
+194,MS2606194,46203,SKU108,Palazzo Set,Kurta Sets,2,3798,Noida,Uttar Pradesh,Delivered
+195,MS2606195,46203,SKU109,Festive Kurti,Women's Kurtis,1,1199,Kochi,Kerala,Delivered
+196,MS2606196,46203,SKU110,Cotton Printed Dress,Dresses,2,2798,Delhi,Delhi,Delivered
+197,MS2606197,46203,SKU106,Cotton Kurta Set,Kurta Sets,1,1399,Agra,Uttar Pradesh,Delivered
+198,MS2606198,46203,SKU102,Rayon Printed Kurti,Women's Kurtis,2,1498,Surat,Gujarat,Delivered
+199,MS2606199,46203,SKU111,Casual Maxi Dress,Dresses,1,1599,Indore,Madhya Pradesh,Delivered
+200,MS2606200,46203,SKU112,Chikankari Kurti,Women's Kurtis,3,3897,Delhi,Delhi,Delivered
+201,MS2606201,46174,SKU101,Floral Cotton Kurti,Women's Kurtis,1,799,Delhi,Delhi,Delivered
+202,MS2606202,46174,SKU108,Palazzo Set,Kurta Sets,2,3798,Jaipur,Rajasthan,Delivered
+203,MS2606203,46175,SKU109,Festive Kurti,Women's Kurtis,1,1199,Lucknow,Uttar Pradesh,Delivered
+204,MS2606204,46175,SKU103,Anarkali Kurti,Women's Kurtis,2,2398,Noida,Uttar Pradesh,Delivered
+205,MS2606205,46176,SKU111,Casual Maxi Dress,Dresses,1,1599,Mumbai,Maharashtra,Delivered
+206,MS2606206,46176,SKU104,Straight Kurta Set,Kurta Sets,1,1699,Pune,Maharashtra,Delivered
+207,MS2606207,46177,SKU102,Rayon Printed Kurti,Women's Kurtis,3,2247,Delhi,Delhi,Delivered
+208,MS2606208,46177,SKU110,Cotton Printed Dress,Dresses,1,1399,Indore,Madhya Pradesh,Delivered
+209,MS2606209,46178,SKU112,Chikankari Kurti,Women's Kurtis,1,1299,Ahmedabad,Gujarat,Delivered
+210,MS2606210,46178,SKU105,Embroidered Kurti,Women's Kurtis,2,1998,Patna,Bihar,Returned
+211,MS2606211,46179,SKU101,Floral Cotton Kurti,Women's Kurtis,2,1598,Jaipur,Rajasthan,Delivered
+212,MS2606212,46179,SKU106,Cotton Kurta Set,Kurta Sets,1,1399,Chandigarh,Chandigarh,Delivered
+213,MS2606213,46180,SKU109,Festive Kurti,Women's Kurtis,2,2398,Delhi,Delhi,Delivered
+214,MS2606214,46180,SKU107,Printed A-Line Kurti,Women's Kurtis,1,899,Surat,Gujarat,Delivered
+215,MS2606215,46181,SKU103,Anarkali Kurti,Women's Kurtis,1,1199,Kanpur,Uttar Pradesh,Delivered
+216,MS2606216,46181,SKU108,Palazzo Set,Kurta Sets,1,1899,Hyderabad,Telangana,Delivered
+217,MS2606217,46182,SKU110,Cotton Printed Dress,Dresses,2,2798,Kochi,Kerala,Delivered
+218,MS2606218,46182,SKU101,Floral Cotton Kurti,Women's Kurtis,1,799,Delhi,Delhi,Delivered
+219,MS2606219,46183,SKU104,Straight Kurta Set,Kurta Sets,2,3398,Bhopal,Madhya Pradesh,Delivered
+220,MS2606220,46183,SKU112,Chikankari Kurti,Women's Kurtis,1,1299,Meerut,Uttar Pradesh,Delivered
+221,MS2606221,46184,SKU102,Rayon Printed Kurti,Women's Kurtis,2,1498,Delhi,Delhi,Delivered
+222,MS2606222,46184,SKU105,Embroidered Kurti,Women's Kurtis,1,999,Ranchi,Jharkhand,Delivered
+223,MS2606223,46185,SKU111,Casual Maxi Dress,Dresses,1,1599,Agra,Uttar Pradesh,Delivered
+224,MS2606224,46185,SKU109,Festive Kurti,Women's Kurtis,3,3597,Delhi,Delhi,Delivered
+225,MS2606225,46186,SKU103,Anarkali Kurti,Women's Kurtis,2,2398,Ludhiana,Punjab,Delivered
+226,MS2606226,46186,SKU106,Cotton Kurta Set,Kurta Sets,2,2798,Vadodara,Gujarat,Delivered
+227,MS2606227,46187,SKU101,Floral Cotton Kurti,Women's Kurtis,1,799,Delhi,Delhi,Delivered
+228,MS2606228,46187,SKU112,Chikankari Kurti,Women's Kurtis,2,2598,Kolkata,West Bengal,Delivered
+229,MS2606229,46188,SKU107,Printed A-Line Kurti,Women's Kurtis,2,1798,Jaipur,Rajasthan,Delivered
+230,MS2606230,46188,SKU104,Straight Kurta Set,Kurta Sets,1,1699,Bengaluru,Karnataka,Delivered
+231,MS2606231,46189,SKU108,Palazzo Set,Kurta Sets,1,1899,Delhi,Delhi,Delivered
+232,MS2606232,46189,SKU109,Festive Kurti,Women's Kurtis,1,1199,Noida,Uttar Pradesh,Returned
+233,MS2606233,46190,SKU102,Rayon Printed Kurti,Women's Kurtis,1,749,Lucknow,Uttar Pradesh,Delivered
+234,MS2606234,46190,SKU110,Cotton Printed Dress,Dresses,1,1399,Mumbai,Maharashtra,Delivered
+235,MS2606235,46191,SKU111,Casual Maxi Dress,Dresses,2,3198,Delhi,Delhi,Delivered
+236,MS2606236,46191,SKU103,Anarkali Kurti,Women's Kurtis,1,1199,Ahmedabad,Gujarat,Delivered
+237,MS2606237,46192,SKU105,Embroidered Kurti,Women's Kurtis,2,1998,Patna,Bihar,Delivered
+238,MS2606238,46192,SKU101,Floral Cotton Kurti,Women's Kurtis,3,2397,Jaipur,Rajasthan,Delivered
+239,MS2606239,46193,SKU104,Straight Kurta Set,Kurta Sets,1,1699,Pune,Maharashtra,Delivered
+240,MS2606240,46193,SKU112,Chikankari Kurti,Women's Kurtis,1,1299,Ghaziabad,Uttar Pradesh,Delivered
+241,MS2606241,46194,SKU109,Festive Kurti,Women's Kurtis,2,2398,Delhi,Delhi,Delivered
+242,MS2606242,46194,SKU107,Printed A-Line Kurti,Women's Kurtis,1,899,Chandigarh,Chandigarh,Delivered
+243,MS2606243,46195,SKU106,Cotton Kurta Set,Kurta Sets,1,1399,Indore,Madhya Pradesh,Delivered
+244,MS2606244,46195,SKU110,Cotton Printed Dress,Dresses,2,2798,Kochi,Kerala,Delivered
+245,MS2606245,46196,SKU102,Rayon Printed Kurti,Women's Kurtis,2,1498,Delhi,Delhi,Delivered
+246,MS2606246,46196,SKU108,Palazzo Set,Kurta Sets,2,3798,Hyderabad,Telangana,Delivered
+247,MS2606247,46197,SKU101,Floral Cotton Kurti,Women's Kurtis,1,799,Surat,Gujarat,Delivered
+248,MS2606248,46197,SKU105,Embroidered Kurti,Women's Kurtis,1,999,Delhi,Delhi,Returned
+249,MS2606249,46198,SKU111,Casual Maxi Dress,Dresses,1,1599,Jaipur,Rajasthan,Delivered
+250,MS2606250,46198,SKU103,Anarkali Kurti,Women's Kurtis,2,2398,Delhi,Delhi,Delivered
+251,MS2606251,46199,SKU106,Cotton Kurta Set,Kurta Sets,1,1399,Delhi,Delhi,Delivered
+252,MS2606252,46199,SKU109,Festive Kurti,Women's Kurtis,2,2398,Jaipur,Rajasthan,Delivered
+253,MS2606253,46199,SKU101,Floral Cotton Kurti,Women's Kurtis,1,799,Lucknow,Uttar Pradesh,Delivered
+254,MS2606254,46199,SKU112,Chikankari Kurti,Women's Kurtis,1,1299,Noida,Uttar Pradesh,Delivered
+255,MS2606255,46199,SKU108,Palazzo Set,Kurta Sets,2,3798,Mumbai,Maharashtra,Delivered
+256,MS2606256,46200,SKU104,Straight Kurta Set,Kurta Sets,1,1699,Pune,Maharashtra,Delivered
+257,MS2606257,46200,SKU110,Cotton Printed Dress,Dresses,1,1399,Ahmedabad,Gujarat,Delivered
+258,MS2606258,46200,SKU103,Anarkali Kurti,Women's Kurtis,2,2398,Patna,Bihar,Delivered
+259,MS2606259,46200,SKU107,Printed A-Line Kurti,Women's Kurtis,1,899,Delhi,Delhi,Delivered
+260,MS2606260,46200,SKU111,Casual Maxi Dress,Dresses,2,3198,Indore,Madhya Pradesh,Returned
+261,MS2606261,46200,SKU102,Rayon Printed Kurti,Women's Kurtis,1,749,Jaipur,Rajasthan,Delivered
+262,MS2606262,46201,SKU105,Embroidered Kurti,Women's Kurtis,2,1998,Chandigarh,Chandigarh,Delivered
+263,MS2606263,46201,SKU109,Festive Kurti,Women's Kurtis,1,1199,Delhi,Delhi,Delivered
+264,MS2606264,46201,SKU101,Floral Cotton Kurti,Women's Kurtis,3,2397,Surat,Gujarat,Delivered
+265,MS2606265,46201,SKU104,Straight Kurta Set,Kurta Sets,1,1699,Hyderabad,Telangana,Delivered
+266,MS2606266,46201,SKU112,Chikankari Kurti,Women's Kurtis,2,2598,Kochi,Kerala,Delivered
+267,MS2606267,46201,SKU108,Palazzo Set,Kurta Sets,1,1899,Ghaziabad,Uttar Pradesh,Delivered
+268,MS2606268,46202,SKU103,Anarkali Kurti,Women's Kurtis,1,1199,Delhi,Delhi,Delivered
+269,MS2606269,46202,SKU111,Casual Maxi Dress,Dresses,1,1599,Nagpur,Maharashtra,Delivered
+270,MS2606270,46202,SKU107,Printed A-Line Kurti,Women's Kurtis,2,1798,Meerut,Uttar Pradesh,Delivered
+271,MS2606271,46202,SKU101,Floral Cotton Kurti,Women's Kurtis,2,1598,Ranchi,Jharkhand,Delivered
+272,MS2606272,46202,SKU106,Cotton Kurta Set,Kurta Sets,1,1399,Delhi,Delhi,Delivered
+273,MS2606273,46202,SKU109,Festive Kurti,Women's Kurtis,3,3597,Bhopal,Madhya Pradesh,Delivered
+274,MS2606274,46202,SKU110,Cotton Printed Dress,Dresses,2,2798,Agra,Uttar Pradesh,Delivered
+275,MS2606275,46202,SKU102,Rayon Printed Kurti,Women's Kurtis,1,749,Delhi,Delhi,Delivered
+276,MS2606276,46203,SKU104,Straight Kurta Set,Kurta Sets,2,3398,Ludhiana,Punjab,Delivered
+277,MS2606277,46203,SKU112,Chikankari Kurti,Women's Kurtis,1,1299,Kolkata,West Bengal,Delivered
+278,MS2606278,46203,SKU105,Embroidered Kurti,Women's Kurtis,1,999,Vadodara,Gujarat,Delivered
+279,MS2606279,46203,SKU108,Palazzo Set,Kurta Sets,1,1899,Bengaluru,Karnataka,Delivered
+280,MS2606280,46203,SKU101,Floral Cotton Kurti,Women's Kurtis,2,1598,Delhi,Delhi,Delivered
+281,MS2606281,46203,SKU103,Anarkali Kurti,Women's Kurtis,1,1199,Jaipur,Rajasthan,Delivered
+282,MS2606282,46203,SKU111,Casual Maxi Dress,Dresses,2,3198,Noida,Uttar Pradesh,Delivered
+283,MS2606283,46203,SKU109,Festive Kurti,Women's Kurtis,1,1199,Mumbai,Maharashtra,Delivered
+284,MS2606284,46203,SKU107,Printed A-Line Kurti,Women's Kurtis,3,2697,Delhi,Delhi,Delivered
+285,MS2606285,46203,SKU110,Cotton Printed Dress,Dresses,1,1399,Pune,Maharashtra,Delivered
+286,MS2606286,46203,SKU102,Rayon Printed Kurti,Women's Kurtis,2,1498,Ahmedabad,Gujarat,Returned
+287,MS2606287,46203,SKU106,Cotton Kurta Set,Kurta Sets,2,2798,Kanpur,Uttar Pradesh,Delivered
+288,MS2606288,46203,SKU101,Floral Cotton Kurti,Women's Kurtis,1,799,Delhi,Delhi,Delivered
+289,MS2606289,46203,SKU112,Chikankari Kurti,Women's Kurtis,2,2598,Lucknow,Uttar Pradesh,Delivered
+290,MS2606290,46203,SKU108,Palazzo Set,Kurta Sets,2,3798,Patna,Bihar,Delivered
+291,MS2606291,46203,SKU104,Straight Kurta Set,Kurta Sets,1,1699,Indore,Madhya Pradesh,Delivered
+292,MS2606292,46203,SKU105,Embroidered Kurti,Women's Kurtis,2,1998,Delhi,Delhi,Delivered
+293,MS2606293,46203,SKU103,Anarkali Kurti,Women's Kurtis,2,2398,Chandigarh,Chandigarh,Delivered
+294,MS2606294,46203,SKU109,Festive Kurti,Women's Kurtis,1,1199,Kochi,Kerala,Delivered
+295,MS2606295,46203,SKU111,Casual Maxi Dress,Dresses,1,1599,Surat,Gujarat,Delivered
+296,MS2606296,46203,SKU107,Printed A-Line Kurti,Women's Kurtis,1,899,Hyderabad,Telangana,Delivered
+297,MS2606297,46203,SKU102,Rayon Printed Kurti,Women's Kurtis,3,2247,Delhi,Delhi,Delivered
+298,MS2606298,46203,SKU110,Cotton Printed Dress,Dresses,2,2798,Jaipur,Rajasthan,Delivered
+299,MS2606299,46203,SKU106,Cotton Kurta Set,Kurta Sets,1,1399,Ghaziabad,Uttar Pradesh,Delivered
+300,MS2606300,46203,SKU101,Floral Cotton Kurti,Women's Kurtis,2,1598,Delhi,Delhi,Delivered
+301,MS2606301,46199,SKU103,Anarkali Kurti,Women's Kurtis,2,2398,Delhi,Delhi,Delivered
+302,MS2606302,46199,SKU111,Casual Maxi Dress,Dresses,1,1599,Jaipur,Rajasthan,Delivered
+303,MS2606303,46199,SKU108,Palazzo Set,Kurta Sets,1,1899,Lucknow,Uttar Pradesh,Delivered
+304,MS2606304,46199,SKU105,Embroidered Kurti,Women's Kurtis,1,999,Mumbai,Maharashtra,Delivered
+305,MS2606305,46199,SKU101,Floral Cotton Kurti,Women's Kurtis,3,2397,Noida,Uttar Pradesh,Delivered
+306,MS2606306,46200,SKU104,Straight Kurta Set,Kurta Sets,2,3398,Delhi,Delhi,Delivered
+307,MS2606307,46200,SKU112,Chikankari Kurti,Women's Kurtis,1,1299,Pune,Maharashtra,Delivered
+308,MS2606308,46200,SKU109,Festive Kurti,Women's Kurtis,2,2398,Ahmedabad,Gujarat,Delivered
+309,MS2606309,46200,SKU102,Rayon Printed Kurti,Women's Kurtis,1,749,Patna,Bihar,Delivered
+310,MS2606310,46200,SKU110,Cotton Printed Dress,Dresses,2,2798,Chandigarh,Chandigarh,Delivered
+311,MS2606311,46200,SKU106,Cotton Kurta Set,Kurta Sets,1,1399,Delhi,Delhi,Returned
+312,MS2606312,46201,SKU101,Floral Cotton Kurti,Women's Kurtis,2,1598,Surat,Gujarat,Delivered
+313,MS2606313,46201,SKU107,Printed A-Line Kurti,Women's Kurtis,1,899,Indore,Madhya Pradesh,Delivered
+314,MS2606314,46201,SKU103,Anarkali Kurti,Women's Kurtis,1,1199,Kochi,Kerala,Delivered
+315,MS2606315,46201,SKU111,Casual Maxi Dress,Dresses,2,3198,Delhi,Delhi,Delivered
+316,MS2606316,46201,SKU104,Straight Kurta Set,Kurta Sets,1,1699,Jaipur,Rajasthan,Delivered
+317,MS2606317,46201,SKU108,Palazzo Set,Kurta Sets,2,3798,Hyderabad,Telangana,Delivered
+318,MS2606318,46201,SKU105,Embroidered Kurti,Women's Kurtis,1,999,Meerut,Uttar Pradesh,Delivered
+319,MS2606319,46202,SKU112,Chikankari Kurti,Women's Kurtis,2,2598,Delhi,Delhi,Delivered
+320,MS2606320,46202,SKU109,Festive Kurti,Women's Kurtis,1,1199,Ghaziabad,Uttar Pradesh,Delivered
+321,MS2606321,46202,SKU101,Floral Cotton Kurti,Women's Kurtis,2,1598,Ranchi,Jharkhand,Delivered
+322,MS2606322,46202,SKU106,Cotton Kurta Set,Kurta Sets,2,2798,Bhopal,Madhya Pradesh,Delivered
+323,MS2606323,46202,SKU110,Cotton Printed Dress,Dresses,1,1399,Delhi,Delhi,Delivered
+324,MS2606324,46202,SKU107,Printed A-Line Kurti,Women's Kurtis,2,1798,Agra,Uttar Pradesh,Delivered
+325,MS2606325,46202,SKU102,Rayon Printed Kurti,Women's Kurtis,3,2247,Jaipur,Rajasthan,Delivered
+326,MS2606326,46203,SKU104,Straight Kurta Set,Kurta Sets,1,1699,Mumbai,Maharashtra,Delivered
+327,MS2606327,46203,SKU111,Casual Maxi Dress,Dresses,1,1599,Delhi,Delhi,Delivered
+328,MS2606328,46203,SKU103,Anarkali Kurti,Women's Kurtis,2,2398,Bengaluru,Karnataka,Delivered
+329,MS2606329,46203,SKU105,Embroidered Kurti,Women's Kurtis,2,1998,Patna,Bihar,Delivered
+330,MS2606330,46203,SKU108,Palazzo Set,Kurta Sets,1,1899,Ahmedabad,Gujarat,Delivered
+331,MS2606331,46203,SKU112,Chikankari Kurti,Women's Kurtis,1,1299,Delhi,Delhi,Delivered
+332,MS2606332,46203,SKU101,Floral Cotton Kurti,Women's Kurtis,1,799,Lucknow,Uttar Pradesh,Delivered
+333,MS2606333,46203,SKU109,Festive Kurti,Women's Kurtis,2,2398,Chandigarh,Chandigarh,Delivered
+334,MS2606334,46203,SKU106,Cotton Kurta Set,Kurta Sets,1,1399,Pune,Maharashtra,Delivered
+335,MS2606335,46203,SKU110,Cotton Printed Dress,Dresses,2,2798,Delhi,Delhi,Delivered
+336,MS2606336,46203,SKU102,Rayon Printed Kurti,Women's Kurtis,1,749,Jaipur,Rajasthan,Returned
+337,MS2606337,46203,SKU107,Printed A-Line Kurti,Women's Kurtis,3,2697,Hyderabad,Telangana,Delivered
+338,MS2606338,46203,SKU111,Casual Maxi Dress,Dresses,1,1599,Kochi,Kerala,Delivered
+339,MS2606339,46203,SKU104,Straight Kurta Set,Kurta Sets,2,3398,Delhi,Delhi,Delivered
+340,MS2606340,46203,SKU101,Floral Cotton Kurti,Women's Kurtis,2,1598,Kolkata,West Bengal,Delivered
+341,MS2606341,46203,SKU103,Anarkali Kurti,Women's Kurtis,1,1199,Surat,Gujarat,Delivered
+342,MS2606342,46203,SKU105,Embroidered Kurti,Women's Kurtis,1,999,Indore,Madhya Pradesh,Delivered
+343,MS2606343,46203,SKU112,Chikankari Kurti,Women's Kurtis,2,2598,Delhi,Delhi,Delivered
+344,MS2606344,46203,SKU108,Palazzo Set,Kurta Sets,2,3798,Noida,Uttar Pradesh,Delivered
+345,MS2606345,46203,SKU109,Festive Kurti,Women's Kurtis,1,1199,Vadodara,Gujarat,Delivered
+346,MS2606346,46203,SKU106,Cotton Kurta Set,Kurta Sets,2,2798,Kanpur,Uttar Pradesh,Delivered
+347,MS2606347,46203,SKU101,Floral Cotton Kurti,Women's Kurtis,1,799,Delhi,Delhi,Delivered
+348,MS2606348,46203,SKU110,Cotton Printed Dress,Dresses,1,1399,Jaipur,Rajasthan,Delivered
+349,MS2606349,46203,SKU107,Printed A-Line Kurti,Women's Kurtis,2,1798,Nagpur,Maharashtra,Delivered
+350,MS2606350,46203,SKU112,Chikankari Kurti,Women's Kurtis,3,3897,Delhi,Delhi,Delivered
+351,MS2606351,46199,SKU109,Festive Kurti,Women's Kurtis,2,2398,Delhi,Delhi,Delivered
+352,MS2606352,46199,SKU104,Straight Kurta Set,Kurta Sets,1,1699,Jaipur,Rajasthan,Delivered
+353,MS2606353,46199,SKU101,Floral Cotton Kurti,Women's Kurtis,1,799,Lucknow,Uttar Pradesh,Delivered
+354,MS2606354,46199,SKU111,Casual Maxi Dress,Dresses,2,3198,Mumbai,Maharashtra,Delivered
+355,MS2606355,46199,SKU106,Cotton Kurta Set,Kurta Sets,1,1399,Noida,Uttar Pradesh,Delivered
+356,MS2606356,46200,SKU103,Anarkali Kurti,Women's Kurtis,2,2398,Ahmedabad,Gujarat,Delivered
+357,MS2606357,46200,SKU112,Chikankari Kurti,Women's Kurtis,1,1299,Delhi,Delhi,Delivered
+358,MS2606358,46200,SKU108,Palazzo Set,Kurta Sets,2,3798,Pune,Maharashtra,Delivered
+359,MS2606359,46200,SKU102,Rayon Printed Kurti,Women's Kurtis,1,749,Patna,Bihar,Delivered
+360,MS2606360,46200,SKU105,Embroidered Kurti,Women's Kurtis,1,999,Chandigarh,Chandigarh,Delivered
+361,MS2606361,46200,SKU110,Cotton Printed Dress,Dresses,2,2798,Delhi,Delhi,Returned
+362,MS2606362,46201,SKU101,Floral Cotton Kurti,Women's Kurtis,3,2397,Surat,Gujarat,Delivered
+363,MS2606363,46201,SKU107,Printed A-Line Kurti,Women's Kurtis,2,1798,Indore,Madhya Pradesh,Delivered
+364,MS2606364,46201,SKU109,Festive Kurti,Women's Kurtis,1,1199,Kochi,Kerala,Delivered
+365,MS2606365,46201,SKU104,Straight Kurta Set,Kurta Sets,2,3398,Delhi,Delhi,Delivered
+366,MS2606366,46201,SKU112,Chikankari Kurti,Women's Kurtis,2,2598,Jaipur,Rajasthan,Delivered
+367,MS2606367,46201,SKU106,Cotton Kurta Set,Kurta Sets,1,1399,Ghaziabad,Uttar Pradesh,Delivered
+368,MS2606368,46202,SKU103,Anarkali Kurti,Women's Kurtis,1,1199,Ranchi,Jharkhand,Delivered
+369,MS2606369,46202,SKU111,Casual Maxi Dress,Dresses,1,1599,Nagpur,Maharashtra,Delivered
+370,MS2606370,46202,SKU108,Palazzo Set,Kurta Sets,1,1899,Meerut,Uttar Pradesh,Delivered
+371,MS2606371,46202,SKU101,Floral Cotton Kurti,Women's Kurtis,2,1598,Delhi,Delhi,Delivered
+372,MS2606372,46202,SKU109,Festive Kurti,Women's Kurtis,3,3597,Bhopal,Madhya Pradesh,Delivered
+373,MS2606373,46202,SKU102,Rayon Printed Kurti,Women's Kurtis,2,1498,Agra,Uttar Pradesh,Delivered
+374,MS2606374,46202,SKU105,Embroidered Kurti,Women's Kurtis,2,1998,Delhi,Delhi,Delivered
+375,MS2606375,46202,SKU110,Cotton Printed Dress,Dresses,1,1399,Jaipur,Rajasthan,Delivered
+376,MS2606376,46203,SKU104,Straight Kurta Set,Kurta Sets,2,3398,Ludhiana,Punjab,Delivered
+377,MS2606377,46203,SKU112,Chikankari Kurti,Women's Kurtis,1,1299,Kolkata,West Bengal,Delivered
+378,MS2606378,46203,SKU101,Floral Cotton Kurti,Women's Kurtis,2,1598,Vadodara,Gujarat,Delivered
+379,MS2606379,46203,SKU108,Palazzo Set,Kurta Sets,2,3798,Bengaluru,Karnataka,Delivered
+380,MS2606380,46203,SKU103,Anarkali Kurti,Women's Kurtis,2,2398,Delhi,Delhi,Delivered
+381,MS2606381,46203,SKU111,Casual Maxi Dress,Dresses,1,1599,Jaipur,Rajasthan,Delivered
+382,MS2606382,46203,SKU109,Festive Kurti,Women's Kurtis,2,2398,Noida,Uttar Pradesh,Delivered
+383,MS2606383,46203,SKU107,Printed A-Line Kurti,Women's Kurtis,3,2697,Mumbai,Maharashtra,Delivered
+384,MS2606384,46203,SKU106,Cotton Kurta Set,Kurta Sets,1,1399,Delhi,Delhi,Delivered
+385,MS2606385,46203,SKU102,Rayon Printed Kurti,Women's Kurtis,1,749,Pune,Maharashtra,Returned
+386,MS2606386,46203,SKU110,Cotton Printed Dress,Dresses,2,2798,Ahmedabad,Gujarat,Delivered
+387,MS2606387,46203,SKU104,Straight Kurta Set,Kurta Sets,1,1699,Kanpur,Uttar Pradesh,Delivered
+388,MS2606388,46203,SKU105,Embroidered Kurti,Women's Kurtis,1,999,Delhi,Delhi,Delivered
+389,MS2606389,46203,SKU101,Floral Cotton Kurti,Women's Kurtis,2,1598,Lucknow,Uttar Pradesh,Delivered
+390,MS2606390,46203,SKU112,Chikankari Kurti,Women's Kurtis,2,2598,Patna,Bihar,Delivered
+391,MS2606391,46203,SKU103,Anarkali Kurti,Women's Kurtis,1,1199,Indore,Madhya Pradesh,Delivered
+392,MS2606392,46203,SKU109,Festive Kurti,Women's Kurtis,1,1199,Chandigarh,Chandigarh,Delivered
+393,MS2606393,46203,SKU108,Palazzo Set,Kurta Sets,2,3798,Kochi,Kerala,Delivered
+394,MS2606394,46203,SKU107,Printed A-Line Kurti,Women's Kurtis,1,899,Surat,Gujarat,Delivered
+395,MS2606395,46203,SKU111,Casual Maxi Dress,Dresses,2,3198,Hyderabad,Telangana,Delivered
+396,MS2606396,46203,SKU106,Cotton Kurta Set,Kurta Sets,2,2798,Delhi,Delhi,Delivered
+397,MS2606397,46203,SKU101,Floral Cotton Kurti,Women's Kurtis,1,799,Jaipur,Rajasthan,Delivered
+398,MS2606398,46203,SKU110,Cotton Printed Dress,Dresses,1,1399,Ghaziabad,Uttar Pradesh,Delivered
+399,MS2606399,46203,SKU105,Embroidered Kurti,Women's Kurtis,2,1998,Nagpur,Maharashtra,Delivered
+400,MS2606400,46203,SKU112,Chikankari Kurti,Women's Kurtis,3,3897,Delhi,Delhi,Delivered
+401,MS2606401,46199,SKU101,Floral Cotton Kurti,Women's Kurtis,2,1598,Delhi,Delhi,Delivered
+402,MS2606402,46199,SKU108,Palazzo Set,Kurta Sets,1,1899,Jaipur,Rajasthan,Delivered
+403,MS2606403,46199,SKU109,Festive Kurti,Women's Kurtis,1,1199,Lucknow,Uttar Pradesh,Delivered
+404,MS2606404,46199,SKU104,Straight Kurta Set,Kurta Sets,2,3398,Mumbai,Maharashtra,Delivered
+405,MS2606405,46199,SKU111,Casual Maxi Dress,Dresses,1,1599,Noida,Uttar Pradesh,Delivered
+406,MS2606406,46200,SKU103,Anarkali Kurti,Women's Kurtis,2,2398,Ahmedabad,Gujarat,Delivered
+407,MS2606407,46200,SKU112,Chikankari Kurti,Women's Kurtis,2,2598,Delhi,Delhi,Delivered
+408,MS2606408,46200,SKU107,Printed A-Line Kurti,Women's Kurtis,1,899,Pune,Maharashtra,Delivered
+409,MS2606409,46200,SKU102,Rayon Printed Kurti,Women's Kurtis,3,2247,Patna,Bihar,Delivered
+410,MS2606410,46200,SKU106,Cotton Kurta Set,Kurta Sets,1,1399,Chandigarh,Chandigarh,Returned
+411,MS2606411,46200,SKU105,Embroidered Kurti,Women's Kurtis,2,1998,Delhi,Delhi,Delivered
+412,MS2606412,46201,SKU110,Cotton Printed Dress,Dresses,1,1399,Surat,Gujarat,Delivered
+413,MS2606413,46201,SKU101,Floral Cotton Kurti,Women's Kurtis,3,2397,Indore,Madhya Pradesh,Delivered
+414,MS2606414,46201,SKU108,Palazzo Set,Kurta Sets,2,3798,Kochi,Kerala,Delivered
+415,MS2606415,46201,SKU109,Festive Kurti,Women's Kurtis,2,2398,Delhi,Delhi,Delivered
+416,MS2606416,46201,SKU104,Straight Kurta Set,Kurta Sets,1,1699,Jaipur,Rajasthan,Delivered
+417,MS2606417,46201,SKU111,Casual Maxi Dress,Dresses,2,3198,Ghaziabad,Uttar Pradesh,Delivered
+418,MS2606418,46202,SKU103,Anarkali Kurti,Women's Kurtis,1,1199,Ranchi,Jharkhand,Delivered
+419,MS2606419,46202,SKU112,Chikankari Kurti,Women's Kurtis,1,1299,Nagpur,Maharashtra,Delivered
+420,MS2606420,46202,SKU101,Floral Cotton Kurti,Women's Kurtis,2,1598,Meerut,Uttar Pradesh,Delivered
+421,MS2606421,46202,SKU106,Cotton Kurta Set,Kurta Sets,2,2798,Delhi,Delhi,Delivered
+422,MS2606422,46202,SKU109,Festive Kurti,Women's Kurtis,3,3597,Bhopal,Madhya Pradesh,Delivered
+423,MS2606423,46202,SKU110,Cotton Printed Dress,Dresses,1,1399,Agra,Uttar Pradesh,Delivered
+424,MS2606424,46202,SKU107,Printed A-Line Kurti,Women's Kurtis,2,1798,Jaipur,Rajasthan,Delivered
+425,MS2606425,46202,SKU102,Rayon Printed Kurti,Women's Kurtis,1,749,Delhi,Delhi,Delivered
+426,MS2606426,46203,SKU104,Straight Kurta Set,Kurta Sets,2,3398,Ludhiana,Punjab,Delivered
+427,MS2606427,46203,SKU105,Embroidered Kurti,Women's Kurtis,1,999,Kolkata,West Bengal,Delivered
+428,MS2606428,46203,SKU108,Palazzo Set,Kurta Sets,2,3798,Vadodara,Gujarat,Delivered
+429,MS2606429,46203,SKU101,Floral Cotton Kurti,Women's Kurtis,1,799,Bengaluru,Karnataka,Delivered
+430,MS2606430,46203,SKU103,Anarkali Kurti,Women's Kurtis,2,2398,Delhi,Delhi,Delivered
+431,MS2606431,46203,SKU111,Casual Maxi Dress,Dresses,1,1599,Jaipur,Rajasthan,Delivered
+432,MS2606432,46203,SKU109,Festive Kurti,Women's Kurtis,2,2398,Noida,Uttar Pradesh,Delivered
+433,MS2606433,46203,SKU107,Printed A-Line Kurti,Women's Kurtis,1,899,Mumbai,Maharashtra,Delivered
+434,MS2606434,46203,SKU106,Cotton Kurta Set,Kurta Sets,2,2798,Delhi,Delhi,Delivered
+435,MS2606435,46203,SKU102,Rayon Printed Kurti,Women's Kurtis,2,1498,Pune,Maharashtra,Returned
+436,MS2606436,46203,SKU110,Cotton Printed Dress,Dresses,2,2798,Ahmedabad,Gujarat,Delivered
+437,MS2606437,46203,SKU104,Straight Kurta Set,Kurta Sets,1,1699,Kanpur,Uttar Pradesh,Delivered
+438,MS2606438,46203,SKU112,Chikankari Kurti,Women's Kurtis,2,2598,Delhi,Delhi,Delivered
+439,MS2606439,46203,SKU101,Floral Cotton Kurti,Women's Kurtis,2,1598,Lucknow,Uttar Pradesh,Delivered
+440,MS2606440,46203,SKU105,Embroidered Kurti,Women's Kurtis,1,999,Patna,Bihar,Delivered
+441,MS2606441,46203,SKU103,Anarkali Kurti,Women's Kurtis,2,2398,Indore,Madhya Pradesh,Delivered
+442,MS2606442,46203,SKU109,Festive Kurti,Women's Kurtis,1,1199,Chandigarh,Chandigarh,Delivered
+443,MS2606443,46203,SKU108,Palazzo Set,Kurta Sets,1,1899,Kochi,Kerala,Delivered
+444,MS2606444,46203,SKU107,Printed A-Line Kurti,Women's Kurtis,3,2697,Surat,Gujarat,Delivered
+445,MS2606445,46203,SKU111,Casual Maxi Dress,Dresses,1,1599,Hyderabad,Telangana,Delivered
+446,MS2606446,46203,SKU106,Cotton Kurta Set,Kurta Sets,1,1399,Delhi,Delhi,Delivered
+447,MS2606447,46203,SKU101,Floral Cotton Kurti,Women's Kurtis,3,2397,Jaipur,Rajasthan,Delivered
+448,MS2606448,46203,SKU110,Cotton Printed Dress,Dresses,1,1399,Ghaziabad,Uttar Pradesh,Delivered
+449,MS2606449,46203,SKU105,Embroidered Kurti,Women's Kurtis,2,1998,Nagpur,Maharashtra,Delivered
+450,MS2606450,46203,SKU112,Chikankari Kurti,Women's Kurtis,1,1299,Delhi,Delhi,Delivered
+451,MS2606451,46199,SKU109,Festive Kurti,Women's Kurtis,1,1199,Delhi,Delhi,Delivered
+452,MS2606452,46199,SKU104,Straight Kurta Set,Kurta Sets,2,3398,Jaipur,Rajasthan,Delivered
+453,MS2606453,46199,SKU101,Floral Cotton Kurti,Women's Kurtis,2,1598,Lucknow,Uttar Pradesh,Delivered
+454,MS2606454,46199,SKU111,Casual Maxi Dress,Dresses,1,1599,Mumbai,Maharashtra,Delivered
+455,MS2606455,46199,SKU106,Cotton Kurta Set,Kurta Sets,2,2798,Noida,Uttar Pradesh,Delivered
+456,MS2606456,46200,SKU103,Anarkali Kurti,Women's Kurtis,1,1199,Ahmedabad,Gujarat,Delivered
+457,MS2606457,46200,SKU112,Chikankari Kurti,Women's Kurtis,2,2598,Delhi,Delhi,Delivered
+458,MS2606458,46200,SKU108,Palazzo Set,Kurta Sets,1,1899,Pune,Maharashtra,Delivered
+459,MS2606459,46200,SKU102,Rayon Printed Kurti,Women's Kurtis,2,1498,Patna,Bihar,Delivered
+460,MS2606460,46200,SKU105,Embroidered Kurti,Women's Kurtis,1,999,Chandigarh,Chandigarh,Returned
+461,MS2606461,46200,SKU110,Cotton Printed Dress,Dresses,2,2798,Delhi,Delhi,Delivered
+462,MS2606462,46201,SKU101,Floral Cotton Kurti,Women's Kurtis,1,799,Surat,Gujarat,Delivered
+463,MS2606463,46201,SKU107,Printed A-Line Kurti,Women's Kurtis,2,1798,Indore,Madhya Pradesh,Delivered
+464,MS2606464,46201,SKU109,Festive Kurti,Women's Kurtis,3,3597,Kochi,Kerala,Delivered
+465,MS2606465,46201,SKU104,Straight Kurta Set,Kurta Sets,1,1699,Delhi,Delhi,Delivered
+466,MS2606466,46201,SKU112,Chikankari Kurti,Women's Kurtis,1,1299,Jaipur,Rajasthan,Delivered
+467,MS2606467,46201,SKU106,Cotton Kurta Set,Kurta Sets,2,2798,Ghaziabad,Uttar Pradesh,Delivered
+468,MS2606468,46202,SKU103,Anarkali Kurti,Women's Kurtis,2,2398,Ranchi,Jharkhand,Delivered
+469,MS2606469,46202,SKU111,Casual Maxi Dress,Dresses,1,1599,Nagpur,Maharashtra,Delivered
+470,MS2606470,46202,SKU108,Palazzo Set,Kurta Sets,2,3798,Meerut,Uttar Pradesh,Delivered
+471,MS2606471,46202,SKU101,Floral Cotton Kurti,Women's Kurtis,3,2397,Delhi,Delhi,Delivered
+472,MS2606472,46202,SKU109,Festive Kurti,Women's Kurtis,1,1199,Bhopal,Madhya Pradesh,Delivered
+473,MS2606473,46202,SKU102,Rayon Printed Kurti,Women's Kurtis,1,749,Agra,Uttar Pradesh,Delivered
+474,MS2606474,46202,SKU105,Embroidered Kurti,Women's Kurtis,2,1998,Delhi,Delhi,Delivered
+475,MS2606475,46202,SKU110,Cotton Printed Dress,Dresses,2,2798,Jaipur,Rajasthan,Delivered
+476,MS2606476,46203,SKU104,Straight Kurta Set,Kurta Sets,1,1699,Ludhiana,Punjab,Delivered
+477,MS2606477,46203,SKU112,Chikankari Kurti,Women's Kurtis,2,2598,Kolkata,West Bengal,Delivered
+478,MS2606478,46203,SKU101,Floral Cotton Kurti,Women's Kurtis,2,1598,Vadodara,Gujarat,Delivered
+479,MS2606479,46203,SKU108,Palazzo Set,Kurta Sets,1,1899,Bengaluru,Karnataka,Delivered
+480,MS2606480,46203,SKU103,Anarkali Kurti,Women's Kurtis,1,1199,Delhi,Delhi,Delivered
+481,MS2606481,46203,SKU111,Casual Maxi Dress,Dresses,2,3198,Jaipur,Rajasthan,Delivered
+482,MS2606482,46203,SKU109,Festive Kurti,Women's Kurtis,2,2398,Noida,Uttar Pradesh,Delivered
+483,MS2606483,46203,SKU107,Printed A-Line Kurti,Women's Kurtis,1,899,Mumbai,Maharashtra,Delivered
+484,MS2606484,46203,SKU106,Cotton Kurta Set,Kurta Sets,1,1399,Delhi,Delhi,Delivered
+485,MS2606485,46203,SKU102,Rayon Printed Kurti,Women's Kurtis,3,2247,Pune,Maharashtra,Delivered
+486,MS2606486,46203,SKU110,Cotton Printed Dress,Dresses,1,1399,Ahmedabad,Gujarat,Delivered
+487,MS2606487,46203,SKU104,Straight Kurta Set,Kurta Sets,2,3398,Kanpur,Uttar Pradesh,Delivered
+488,MS2606488,46203,SKU105,Embroidered Kurti,Women's Kurtis,1,999,Delhi,Delhi,Delivered
+489,MS2606489,46203,SKU101,Floral Cotton Kurti,Women's Kurtis,2,1598,Lucknow,Uttar Pradesh,Delivered
+490,MS2606490,46203,SKU112,Chikankari Kurti,Women's Kurtis,1,1299,Patna,Bihar,Delivered
+491,MS2606491,46203,SKU103,Anarkali Kurti,Women's Kurtis,2,2398,Indore,Madhya Pradesh,Delivered
+492,MS2606492,46203,SKU109,Festive Kurti,Women's Kurtis,1,1199,Chandigarh,Chandigarh,Delivered
+493,MS2606493,46203,SKU108,Palazzo Set,Kurta Sets,2,3798,Kochi,Kerala,Delivered
+494,MS2606494,46203,SKU107,Printed A-Line Kurti,Women's Kurtis,2,1798,Surat,Gujarat,Delivered
+495,MS2606495,46203,SKU111,Casual Maxi Dress,Dresses,1,1599,Hyderabad,Telangana,Delivered
+496,MS2606496,46203,SKU106,Cotton Kurta Set,Kurta Sets,2,2798,Delhi,Delhi,Delivered
+497,MS2606497,46203,SKU101,Floral Cotton Kurti,Women's Kurtis,1,799,Jaipur,Rajasthan,Delivered
+498,MS2606498,46203,SKU110,Cotton Printed Dress,Dresses,2,2798,Ghaziabad,Uttar Pradesh,Delivered
+499,MS2606499,46203,SKU105,Embroidered Kurti,Women's Kurtis,1,999,Nagpur,Maharashtra,Delivered
+500,MS2606500,46203,SKU112,Chikankari Kurti,Women's Kurtis,2,2598,Delhi,Delhi,Delivered
+501,MS2606501,46199,SKU103,Anarkali Kurti,Women's Kurtis,1,1199,Delhi,Delhi,Delivered
+502,MS2606502,46199,SKU108,Palazzo Set,Kurta Sets,2,3798,Jaipur,Rajasthan,Delivered
+503,MS2606503,46199,SKU109,Festive Kurti,Women's Kurtis,2,2398,Lucknow,Uttar Pradesh,Delivered
+504,MS2606504,46199,SKU104,Straight Kurta Set,Kurta Sets,1,1699,Mumbai,Maharashtra,Delivered
+505,MS2606505,46199,SKU111,Casual Maxi Dress,Dresses,2,3198,Noida,Uttar Pradesh,Delivered
+506,MS2606506,46200,SKU106,Cotton Kurta Set,Kurta Sets,1,1399,Ahmedabad,Gujarat,Delivered
+507,MS2606507,46200,SKU101,Floral Cotton Kurti,Women's Kurtis,3,2397,Delhi,Delhi,Delivered
+508,MS2606508,46200,SKU112,Chikankari Kurti,Women's Kurtis,1,1299,Pune,Maharashtra,Delivered
+509,MS2606509,46200,SKU102,Rayon Printed Kurti,Women's Kurtis,2,1498,Patna,Bihar,Delivered
+510,MS2606510,46200,SKU107,Printed A-Line Kurti,Women's Kurtis,1,899,Chandigarh,Chandigarh,Delivered
+511,MS2606511,46200,SKU110,Cotton Printed Dress,Dresses,2,2798,Delhi,Delhi,Delivered
+512,MS2606512,46201,SKU105,Embroidered Kurti,Women's Kurtis,1,999,Surat,Gujarat,Returned
+513,MS2606513,46201,SKU103,Anarkali Kurti,Women's Kurtis,2,2398,Indore,Madhya Pradesh,Delivered
+514,MS2606514,46201,SKU109,Festive Kurti,Women's Kurtis,1,1199,Kochi,Kerala,Delivered
+515,MS2606515,46201,SKU104,Straight Kurta Set,Kurta Sets,2,3398,Delhi,Delhi,Delivered
+516,MS2606516,46201,SKU112,Chikankari Kurti,Women's Kurtis,2,2598,Jaipur,Rajasthan,Delivered
+517,MS2606517,46201,SKU106,Cotton Kurta Set,Kurta Sets,1,1399,Ghaziabad,Uttar Pradesh,Delivered
+518,MS2606518,46202,SKU101,Floral Cotton Kurti,Women's Kurtis,2,1598,Ranchi,Jharkhand,Delivered
+519,MS2606519,46202,SKU111,Casual Maxi Dress,Dresses,1,1599,Nagpur,Maharashtra,Delivered
+520,MS2606520,46202,SKU108,Palazzo Set,Kurta Sets,1,1899,Meerut,Uttar Pradesh,Delivered
+521,MS2606521,46202,SKU103,Anarkali Kurti,Women's Kurtis,1,1199,Delhi,Delhi,Delivered
+522,MS2606522,46202,SKU109,Festive Kurti,Women's Kurtis,2,2398,Bhopal,Madhya Pradesh,Delivered
+523,MS2606523,46202,SKU102,Rayon Printed Kurti,Women's Kurtis,3,2247,Agra,Uttar Pradesh,Delivered
+524,MS2606524,46202,SKU105,Embroidered Kurti,Women's Kurtis,2,1998,Delhi,Delhi,Delivered
+525,MS2606525,46202,SKU110,Cotton Printed Dress,Dresses,1,1399,Jaipur,Rajasthan,Delivered
+526,MS2606526,46203,SKU104,Straight Kurta Set,Kurta Sets,2,3398,Ludhiana,Punjab,Delivered
+527,MS2606527,46203,SKU112,Chikankari Kurti,Women's Kurtis,1,1299,Kolkata,West Bengal,Delivered
+528,MS2606528,46203,SKU101,Floral Cotton Kurti,Women's Kurtis,2,1598,Vadodara,Gujarat,Delivered
+529,MS2606529,46203,SKU108,Palazzo Set,Kurta Sets,2,3798,Bengaluru,Karnataka,Delivered
+530,MS2606530,46203,SKU103,Anarkali Kurti,Women's Kurtis,2,2398,Delhi,Delhi,Delivered
+531,MS2606531,46203,SKU111,Casual Maxi Dress,Dresses,1,1599,Jaipur,Rajasthan,Delivered
+532,MS2606532,46203,SKU109,Festive Kurti,Women's Kurtis,1,1199,Noida,Uttar Pradesh,Delivered
+533,MS2606533,46203,SKU107,Printed A-Line Kurti,Women's Kurtis,2,1798,Mumbai,Maharashtra,Delivered
+534,MS2606534,46203,SKU106,Cotton Kurta Set,Kurta Sets,2,2798,Delhi,Delhi,Delivered
+535,MS2606535,46203,SKU102,Rayon Printed Kurti,Women's Kurtis,1,749,Pune,Maharashtra,Delivered
+536,MS2606536,46203,SKU110,Cotton Printed Dress,Dresses,1,1399,Ahmedabad,Gujarat,Delivered
+537,MS2606537,46203,SKU104,Straight Kurta Set,Kurta Sets,1,1699,Kanpur,Uttar Pradesh,Delivered
+538,MS2606538,46203,SKU105,Embroidered Kurti,Women's Kurtis,2,1998,Delhi,Delhi,Delivered
+539,MS2606539,46203,SKU101,Floral Cotton Kurti,Women's Kurtis,3,2397,Lucknow,Uttar Pradesh,Delivered
+540,MS2606540,46203,SKU112,Chikankari Kurti,Women's Kurtis,2,2598,Patna,Bihar,Delivered
+541,MS2606541,46203,SKU103,Anarkali Kurti,Women's Kurtis,1,1199,Indore,Madhya Pradesh,Delivered
+542,MS2606542,46203,SKU109,Festive Kurti,Women's Kurtis,2,2398,Chandigarh,Chandigarh,Delivered
+543,MS2606543,46203,SKU108,Palazzo Set,Kurta Sets,1,1899,Kochi,Kerala,Delivered
+544,MS2606544,46203,SKU107,Printed A-Line Kurti,Women's Kurtis,1,899,Surat,Gujarat,Delivered
+545,MS2606545,46203,SKU111,Casual Maxi Dress,Dresses,2,3198,Hyderabad,Telangana,Delivered
+546,MS2606546,46203,SKU106,Cotton Kurta Set,Kurta Sets,1,1399,Delhi,Delhi,Delivered
+547,MS2606547,46203,SKU101,Floral Cotton Kurti,Women's Kurtis,2,1598,Jaipur,Rajasthan,Delivered
+548,MS2606548,46203,SKU110,Cotton Printed Dress,Dresses,2,2798,Ghaziabad,Uttar Pradesh,Delivered
+549,MS2606549,46203,SKU105,Embroidered Kurti,Women's Kurtis,1,999,Nagpur,Maharashtra,Delivered
+550,MS2606550,46203,SKU112,Chikankari Kurti,Women's Kurtis,2,2598,Delhi,Delhi,Delivered
