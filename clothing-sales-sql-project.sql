@@ -1,0 +1,257 @@
+CREATE TABLE fashion_hub_sales (
+    number INT,
+    order_id TEXT,
+    order_date TEXT,
+    sku VARCHAR(50),
+    product_name VARCHAR(255),
+    category VARCHAR(100),
+    qty INT,
+    selling_price NUMERIC(10,2),
+    customer_city VARCHAR(100),
+    state VARCHAR(100),
+    order_status VARCHAR(30)
+);
+
+SELECT * FROM fashion_hub_sales
+
+SELECT COUNT(*) FROM fashion_hub_sales
+
+-- 1. Rank products by total sales within each category.
+SELECT * FROM fashion_hub_sales
+
+SELECT product_name, category,
+ROUND(SUM(selling_price), 2) AS total_sales,
+RANK() OVER(
+PARTITION BY category
+ORDER BY SUM(qty * selling_price) DESC
+    ) AS sales_rank
+FROM fashion_hub_sales
+GROUP BY category, product_name;
+
+-- 2. Find the top-selling product in every state.
+SELECT * FROM fashion_hub_sales
+
+SELECT *
+FROM (
+    SELECT
+        state,
+        product_name,
+        SUM(qty * selling_price) AS total_sales,
+        ROW_NUMBER() OVER (
+            PARTITION BY state
+            ORDER BY SUM(qty * selling_price) DESC
+        ) AS rn
+    FROM fashion_hub_sales
+    GROUP BY state, product_name
+) t
+WHERE rn = 1;
+
+-- 3. Calculate running sales by order date.
+SELECT * FROM fashion_hub_sales
+
+SELECT
+    order_date,
+    SUM(qty * selling_price) AS daily_sales,
+    SUM(SUM(qty * selling_price))
+        OVER (ORDER BY order_date) AS running_sales
+FROM fashion_hub_sales
+GROUP BY order_date
+ORDER BY order_date;
+
+-- 4. Calculate Month-over-Month (MoM) sales growth.
+SELECT * FROM fashion_hub_sales
+
+WITH monthly_sales AS (
+    SELECT
+        DATE_TRUNC('month', order_date) AS month,
+        SUM(qty * selling_price) AS total_sales
+    FROM fashion_hub_sales
+    GROUP BY DATE_TRUNC('month', order_date)
+)
+
+SELECT
+    month,
+    total_sales,
+    LAG(total_sales) OVER (ORDER BY month) AS previous_month,
+    ROUND(
+        ((total_sales - LAG(total_sales) OVER (ORDER BY month))
+        * 100.0 /
+        LAG(total_sales) OVER (ORDER BY month)),2
+    ) AS mom_growth_percentage
+FROM monthly_sales;
+
+-- 5. Calculate cumulative sales by category.
+SELECT * FROM fashion_hub_sales
+
+SELECT
+    category,
+    SUM(qty * selling_price) AS category_sales,
+    SUM(SUM(qty * selling_price))
+        OVER (
+            ORDER BY SUM(qty * selling_price)
+        ) AS cumulative_sales
+FROM fashion_hub_sales
+GROUP BY category;
+
+-- 6. Find products contributing to 80 % of total revenue (Pareto Analysis).
+SELECT * FROM fashion_hub_sales
+
+WITH product_sales AS (
+    SELECT
+        product_name,
+        SUM(qty * selling_price) AS revenue
+    FROM fashion_hub_sales
+    GROUP BY product_name
+),
+ranked_sales AS (
+    SELECT
+        product_name,
+        revenue,
+        SUM(revenue) OVER (ORDER BY revenue DESC) AS cumulative_revenue,
+        SUM(revenue) OVER () AS total_revenue
+    FROM product_sales
+)
+
+SELECT
+    product_name,
+    revenue,
+    ROUND(cumulative_revenue * 100.0 / total_revenue,2) AS cumulative_percentage
+FROM ranked_sales
+WHERE cumulative_revenue <= total_revenue * 0.80;
+
+-- 7. Detect sales outliers using average and standard deviation.
+SELECT * FROM fashion_hub_sales
+
+SELECT
+    product_name,
+    qty * selling_price AS sales_amount
+FROM fashion_hub_sales
+WHERE (qty * selling_price) >
+(
+    SELECT
+        AVG(qty * selling_price)
+        + 2 * STDDEV(qty * selling_price)
+    FROM fashion_hub_sales
+);
+
+-- 8. Find repeat products across multiple cities.
+SELECT * FROM fashion_hub_sales
+
+SELECT
+    product_name,
+    COUNT(DISTINCT customer_city) AS total_cities
+FROM fashion_hub_sales
+GROUP BY product_name
+HAVING COUNT(DISTINCT customer_city) > 1
+ORDER BY total_cities DESC;
+
+-- 9. Find the average selling price by category.
+SELECT * FROM fashion_hub_sales
+
+SELECT
+    category,
+    ROUND(AVG(selling_price),2) AS average_price
+FROM fashion_hub_sales
+GROUP BY category
+ORDER BY average_price DESC;
+
+-- 10. Find the top 10 best-selling products.
+SELECT * FROM fashion_hub_sales
+
+SELECT
+    product_name,
+    SUM(qty) AS total_quantity_sold,
+    SUM(qty * selling_price) AS total_sales
+FROM fashion_hub_sales
+GROUP BY product_name
+ORDER BY total_sales DESC
+LIMIT 10;
+
+-- 11. Count orders in each category.
+SELECT * FROM fashion_hub_sales
+
+SELECT
+    category,
+    COUNT(order_id) AS total_orders
+FROM fashion_hub_sales
+GROUP BY category
+ORDER BY total_orders DESC;
+
+-- 12. Find categories with above-average sales.
+SELECT * FROM fashion_hub_sales
+
+SELECT
+    category,
+    SUM(qty * selling_price) AS total_sales
+FROM fashion_hub_sales
+GROUP BY category
+HAVING SUM(qty * selling_price) >
+(
+    SELECT AVG(category_sales)
+    FROM
+    (
+        SELECT
+            SUM(qty * selling_price) AS category_sales
+        FROM fashion_hub_sales
+        GROUP BY category
+    ) AS avg_sales
+)
+ORDER BY total_sales DESC;
+
+-- 13. Calculate each state's contribution to total sales.
+SELECT * FROM fashion_hub_sales
+
+SELECT
+    state,
+    SUM(qty * selling_price) AS total_sales,
+    ROUND(
+        SUM(qty * selling_price) * 100.0 /
+        SUM(SUM(qty * selling_price)) OVER (),
+        2
+    ) AS sales_percentage
+FROM fashion_hub_sales
+GROUP BY state
+ORDER BY sales_percentage DESC;
+
+-- 14. Find products with the highest quantity sold.
+SELECT * FROM fashion_hub_sales
+
+SELECT
+    product_name,
+    SUM(qty) AS total_quantity_sold
+FROM fashion_hub_sales
+GROUP BY product_name
+ORDER BY total_quantity_sold DESC
+LIMIT 10;
+
+-- 15. Find the average quantity sold per product.
+SELECT * FROM fashion_hub_sales
+
+SELECT
+    product_name,
+    ROUND(AVG(qty), 2) AS average_quantity
+FROM fashion_hub_sales
+GROUP BY product_name
+ORDER BY average_quantity DESC;
+
+-- 16. Compare delivered vs returned orders.
+SELECT * FROM fashion_hub_sales
+
+-- Option 1: Number of Orders
+
+SELECT
+    order_status,
+    COUNT(order_id) AS total_orders
+FROM fashion_hub_sales
+WHERE order_status IN ('Delivered', 'Returned')
+GROUP BY order_status;
+
+--Option 2: Sales Comparison
+
+SELECT
+    order_status,
+    COUNT(order_id) AS total_orders,
+    SUM(qty * selling_price) AS total_sales
+FROM fashion_hub_sales
+WHERE order_status IN ('Delivered', 'Returned')
+GROUP BY order_status;
